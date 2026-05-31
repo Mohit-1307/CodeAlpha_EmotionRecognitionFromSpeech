@@ -361,5 +361,7 @@ After training, the following outputs are generated in `outputs/`:
 ---
 
 <div align="center">
-<sub>If this helped you, a ⭐ on the repo is appreciated.</sub>
+
+*If this project was useful, a ⭐ on the repository is appreciated.*
+
 </div>
