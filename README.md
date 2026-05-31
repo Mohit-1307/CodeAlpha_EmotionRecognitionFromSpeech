@@ -366,7 +366,3 @@ After training, the following outputs are generated in `outputs/`:
 
 
 This project is licensed under the MIT License.
-
----
-
-> **Dataset Citation:** Livingstone SR, Russo FA (2018). *The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)*. PLoS ONE 13(5): e0196391. [https://doi.org/10.1371/journal.pone.0196391](https://doi.org/10.1371/journal.pone.0196391)
