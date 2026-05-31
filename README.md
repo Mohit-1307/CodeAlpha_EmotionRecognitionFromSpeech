@@ -363,6 +363,3 @@ After training, the following outputs are generated in `outputs/`:
 <div align="center">
 <sub>If this helped you, a ⭐ on the repo is appreciated.</sub>
 </div>
-
-
-This project is licensed under the MIT License.
