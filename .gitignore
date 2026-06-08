@@ -1,53 +1,21 @@
+# Virtual environment
+.venv/
+
 # Python cache
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
 
-# Virtual environment
-venv/
-env/
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-
-# VS Code
-.vscode/
-
-# Streamlit cache
-.streamlit/
-
-# TensorFlow model files
+# Model files (optional)
 *.h5
 *.keras
 
-# Saved ML artifacts
-*.pkl
-
-# Logs
-*.log
+# IDE
+.vscode/
+.idea/
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Output folders
-outputs/
-
-# Temporary files
-temp/
-tmp/
-
-# Build files
-build/
-dist/
-*.egg-info/
-
-# Pytest
-.pytest_cache/
-
-# Coverage reports
-.coverage
-htmlcov/
-
-# Environment variables
-.env
+# VS Code
+.vscode
