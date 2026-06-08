@@ -1,18 +1,43 @@
-# Python cache
-__pycache__/
-*.pyc
+# Virtual Environment
+.venv/
+venv/
+env/
 
-# Model files (optional)
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Files
 *.h5
 *.keras
+*.pkl
 
-# IDE
-.vscode/
-.idea/
+# Training Outputs
+outputs/
+models/*.h5
+models/*.keras
 
-# OS files
-.DS_Store
-Thumbs.db
+# Logs
+*.log
+
+# Environment Variables
+.env
 
 # VS Code
-.vscode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# OS Files
+.DS_Store
+Thumbs.db
